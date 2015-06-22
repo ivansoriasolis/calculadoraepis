@@ -42,5 +42,9 @@ public class Calcualdora {
         div=a/b;
     return 0;
     }
-
+    public  float cuadrado( float a){
+            float cuad;
+            cuad=a*a;
+     return 0;
+    }
 }

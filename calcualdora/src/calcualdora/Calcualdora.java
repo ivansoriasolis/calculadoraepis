@@ -30,13 +30,13 @@ public class Calcualdora {
     return 0;
     }
     public  float Multiplicacion( float a, float b){
-            
-    return 0;
+            float mult;
+            mult=a*b;
+     return 0;
     }
-    
     public  float division( float a, float b){
-    float div;
-    div=a/b;
+        float div;
+        div=a/b;
     return 0;
     }
 

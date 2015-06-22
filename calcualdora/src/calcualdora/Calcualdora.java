@@ -37,6 +37,8 @@ public class Calcualdora {
 //Esta funcion sirve para dividir 2 numeros reales
     public  float division( float a, float b){
         float div;
+		if (b==0)
+			return 1000000;
         div=a/b;
     return 0;
     }

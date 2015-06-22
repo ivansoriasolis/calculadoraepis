@@ -34,6 +34,7 @@ public class Calcualdora {
             mult=a*b;
      return 0;
     }
+//Esta funcion sirve para dividir 2 numeros reales
     public  float division( float a, float b){
         float div;
         div=a/b;

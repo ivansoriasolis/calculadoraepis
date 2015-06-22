@@ -43,12 +43,21 @@ public class Calcualdora {
     return 0;
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
     public  float cuadrado( float a){
             float cuad;
             cuad=a*a;
      return 0;
     }
 =======
+=======
+
+    public float exponencial(){
+    
+    return 0;
+    }
+
+>>>>>>> origin/master
 	
 	public float potencia(float a, float b){
 	return 0;
@@ -57,5 +66,9 @@ public class Calcualdora {
 	public float raiz(float a, float b){
     return 0;
 	} 
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+
 >>>>>>> origin/master
 }

@@ -42,9 +42,20 @@ public class Calcualdora {
         div=a/b;
     return 0;
     }
+<<<<<<< HEAD
     public  float cuadrado( float a){
             float cuad;
             cuad=a*a;
      return 0;
     }
+=======
+	
+	public float potencia(float a, float b){
+	return 0;
+	}
+	
+	public float raiz(float a, float b){
+    return 0;
+	} 
+>>>>>>> origin/master
 }

@@ -39,5 +39,9 @@ public class Calcualdora {
         div=a/b;
     return 0;
     }
+    public float exponencial(){
+    
+    return 0;
+    }
 
 }

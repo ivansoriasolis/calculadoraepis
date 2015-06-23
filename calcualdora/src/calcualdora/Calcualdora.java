@@ -36,12 +36,24 @@ public class Calcualdora {
     }
     public  float division( float a, float b){
         float div;
+		if (b==0)
+			return 1000000;
         div=a/b;
     return 0;
     }
+
     public float exponencial(){
     
     return 0;
     }
+
+	
+	public float potencia(float a, float b){
+	return 0;
+	}
+	
+	public float raiz(float a, float b){
+    return 0;
+	} 
 
 }

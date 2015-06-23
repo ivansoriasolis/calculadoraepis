@@ -34,6 +34,7 @@ public class Calcualdora {
             mult=a*b;
      return 0;
     }
+//Esta funcion sirve para dividir 2 numeros reales
     public  float division( float a, float b){
         float div;
 		if (b==0)
@@ -42,11 +43,16 @@ public class Calcualdora {
     return 0;
     }
 
+    public  float cuadrado( float a){
+            float cuad;
+            cuad=a*a;
+     return 0;
+    }
+
     public float exponencial(){
     
     return 0;
     }
-
 	
 	public float potencia(float a, float b){
             float potencia;
@@ -59,6 +65,5 @@ public class Calcualdora {
 	
 	public float raiz(float a, float b){
     return 0;
-	} 
-
+	}
 }

@@ -24,16 +24,17 @@ public class Calcualdora {
      sum=a+b;
      return 0;
     }
-     public  float resta( float a, float b){
+    public  float resta( float a, float b){
      float rest;
      rest=a-b;
      return 0;
     }
-      public  float Multiplicacion( float a, float b){
-            
+    public  float Multiplicacion( float a, float b){
+            float mult;
+            mult=a*b;
      return 0;
     }
-       public  float division( float a, float b){
+    public  float division( float a, float b){
             
      return 0;
     }

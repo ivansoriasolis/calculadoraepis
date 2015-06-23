@@ -20,7 +20,8 @@ public class Calcualdora {
     }
     
     public  float suma( float a, float b){
-            
+     float sum;
+     sum=a+b;
      return 0;
     }
      public  float resta( float a, float b){

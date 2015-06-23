@@ -49,6 +49,11 @@ public class Calcualdora {
 
 	
 	public float potencia(float a, float b){
+            float potencia;
+            String hola;
+            potencia= a*b;
+            hola="es una potencia";
+            
 	return 0;
 	}
 	

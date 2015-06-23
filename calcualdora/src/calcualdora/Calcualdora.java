@@ -25,7 +25,8 @@ public class Calcualdora {
      return 0;
     }
      public  float resta( float a, float b){
-            
+     float rest;
+     rest=a-b;
      return 0;
     }
       public  float Multiplicacion( float a, float b){
